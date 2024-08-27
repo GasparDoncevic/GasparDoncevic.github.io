@@ -1,2 +1,3 @@
 User-agent: *
 Disallow: /static/
+Allow: /static/images/Me2.webp
